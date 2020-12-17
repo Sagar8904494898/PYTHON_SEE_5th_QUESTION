@@ -4,7 +4,8 @@ Program is given in debug_exam.py and Instructions are given in ReadMe file.
 # Answers should be given for all three questions here.
 
 5a.  
- def uniqueUpdate(data1, data2):
+        
+def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
 
@@ -28,6 +29,7 @@ Program is given in debug_exam.py and Instructions are given in ReadMe file.
     # After processing all (k, v2) in
     # data2, return the dictionary
     return dupKeys
+ 
 5b .
 
           if k in data1:
