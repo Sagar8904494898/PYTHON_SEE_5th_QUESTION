@@ -3,10 +3,10 @@ Program is given in debug_exam.py and Instructions are given in ReadMe file.
 # Fork the repository and commit the changes.
 # Answers should be given for all three questions here.
 5a.
-   def uniqueUpdate(data1, data2):
+   
+    def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
-
     # Examine every (k, v2) pair in data2
     for [k, v2] in data2:
         # Check if there is a key-value
