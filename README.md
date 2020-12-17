@@ -2,10 +2,9 @@
 Program is given in debug_exam.py and Instructions are given in ReadMe file.
 # Fork the repository and commit the changes.
 # Answers should be given for all three questions here.
-
-5a.  
-        
-def uniqueUpdate(data1, data2):
+5a.
+  
+   def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
 
